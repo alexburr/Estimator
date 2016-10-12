@@ -1,9 +1,9 @@
 {
-  "name": "react-tutorial",
-  "version": "0.0.0",
-  "private": true,
+  "name": "estimator",
+  "version": "1.0.0",
+  "private": false,
   "license": "see LICENSE file",
-  "description": "Code from the React tutorial.",
+  "description": "Estimates song length to help planning band sets for dancers.",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.4.3",
@@ -16,19 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tutorial.git"
+    "url": "https://github.com/Alexburr/Estimator"
   },
   "keywords": [
-    "react",
-    "tutorial",
-    "comment",
-    "example"
+    "bpm",
+    "jazz",
+    "song length"
   ],
-  "author": "petehunt",
+  "author": "alexbur",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tutorial/issues"
+    "url": "https://github.com/alexburr/Estimator/issues"
   },
-  "homepage": "https://github.com/reactjs/react-tutorial",
+  "homepage": "https://github.com/alexburr/Estimator",
   "engines" : {
     "node" : "0.12.x"
   }
