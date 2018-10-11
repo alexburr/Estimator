@@ -4,7 +4,7 @@ Estimates song length to help planning band sets for dancers.
 
 ### Demo
 
-http://www.alexburr.com/apps/estimator/index.html
+https://alexburr.github.io/apps/Estimator/index.html
 
 ### Installation
 
