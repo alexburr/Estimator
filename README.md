@@ -9,7 +9,7 @@ https://alexburr.github.io/apps/Estimator/index.html
 ### Installation
 
 To run a server:
-> npm install
+> npm install   
 > npm start
 
 To install on existing server:
