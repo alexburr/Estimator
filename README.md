@@ -17,4 +17,4 @@ To install on existing server:
 
 ### License
 
-(c) 2016 Alex Burr. MIT License
+(c) 2019 Alex Burr. MIT License
