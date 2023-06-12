@@ -28,7 +28,7 @@
     "url": "https://github.com/alexburr/Estimator/issues"
   },
   "homepage": "https://github.com/alexburr/Estimator",
-  "engines" : {
-    "node" : "0.12.x"
+  "engines": {
+    "node": "0.12.x"
   }
 }
