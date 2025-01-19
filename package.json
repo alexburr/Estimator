@@ -6,8 +6,8 @@
   "description": "Estimates song length to help planning band sets for dancers.",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.4.3",
-    "express": "^4.4.5"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
   },
   "devDependencies": {},
   "scripts": {
