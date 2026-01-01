@@ -6,10 +6,9 @@
   "description": "Estimates song length to help planning band sets for dancers.",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.20.3",
-    "express": "^4.21.2"
+    "body-parser": "^1.20.4",
+    "express": "^4.22.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
